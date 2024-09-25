@@ -32,5 +32,6 @@ wheel
 streamlit-lottie
 opencv-python-headless
 torch
+ultralytics
 
 
